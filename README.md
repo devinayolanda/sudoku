@@ -1,5 +1,5 @@
 # sudoku
-Sudoku, a logic-based puzzle, but with an unique pattern. Implementation using a backtrack algorithm.
+Sudoku, a logic-based puzzle, but with an unique pattern. Implemented using Backtrack algorithm.
 Built using C++ and SFML library.
 
 How to play (Play, Random, Special):
